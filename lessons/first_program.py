@@ -1,3 +1,8 @@
-"""Greet someone."""
+# def eat(food: str) -> None:
+# print("Eating" + food)
 
-print("hello")
+
+# def main(food: str) -> None:
+# food_item = "apple"
+# print(eat())
+
